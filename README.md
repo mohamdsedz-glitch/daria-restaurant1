@@ -1,5 +1,3 @@
-# daria-restaurant1
-<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
@@ -54,10 +52,10 @@
     box-shadow: 0 10px 40px rgba(62,44,24,0.10);
     backdrop-filter: blur(2px);
   }
-  .lang-toggle{
-    position: fixed;
+  .lang-togglfixed;
     top: 18px;
-    right: 18px;
+    right: 18pxe{
+    position: ;
     z-index: 10;
     font-family: inherit;
     font-size: 13px;
@@ -214,7 +212,7 @@
   </div>
 
   <h1 id="txt-title">داريا للمطاعم</h1>
-  <p class="tagline" id="txt-tagline">شغفٌ يُتقن.. ومذاقٌ يُبهر</p>
+  <p class="tagline" id="txt-tagline">داريا للمطاعم فرع الفلافل</p>
 
   <div class="rule"></div>
 
